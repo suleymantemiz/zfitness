@@ -1,0 +1,8 @@
+D:\Users\SuleyMAN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\bin\Debug\WorldOlympiaFitness.exe.config
+D:\Users\SuleyMAN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\bin\Debug\WorldOlympiaFitness.exe
+D:\Users\SuleyMAN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\bin\Debug\WorldOlympiaFitness.pdb
+D:\Users\SuleyMAN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\obj\Debug\WorldOlympiaFitness.exe
+D:\Users\SuleyMAN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\obj\Debug\WorldOlympiaFitness.pdb
+D:\Users\SuleymaN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\obj\Debug\WorldOlympiaFitness.csprojAssemblyReference.cache
+D:\Users\SuleymaN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\obj\Debug\WorldOlympiaFitness.csproj.CoreCompileInputs.cache
+D:\Users\SuleymaN\Desktop\temp\azerbaycan_mysqlc4_3\WorldOlympiaFitness\obj\Debug\WorldOlympiaFitness.csproj.CopyComplete

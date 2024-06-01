@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.azerbaycan_mysqlc.iml
+/projectSettingsUpdater.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\SuleymaN Temiz\Desktop\temp\azerbaycan_mysqlc_v4.1\azerbaycan_mysqlc1\azerbaycan_mysqlc\.idea\.idea.azerbaycan_mysqlc.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
