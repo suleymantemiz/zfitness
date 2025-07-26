@@ -14,14 +14,15 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace azerbaycan_mysqlc
+namespace ZFitness
 {
     class Program
     {
         public static string dosyayolu = AppDomain.CurrentDomain.BaseDirectory;
-        public static string yedekler = AppDomain.CurrentDomain.BaseDirectory + "\\log";
-        public static string path_yazilmayan = yedekler + "\\" + "log_yazilmayanlar.txt";
-        public static string path = yedekler + "\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
+        public static string path_log = dosyayolu + "\\log";
+        public static string logsFileName = "\\loglar.txt";
+        public static string path_yazilmayan = Path.Combine(path_log, logsFileName);
+        public static string path = path_log + "\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
         public static string loglar = "";
         public static string tab = "    ";
         public static string bosluk = " ";
@@ -44,7 +45,7 @@ namespace azerbaycan_mysqlc
         device_door
         clients_id
         clients_name
-        card_no
+        card_id
         clients_limit
         expiration_date
         is_active
@@ -67,15 +68,14 @@ namespace azerbaycan_mysqlc
 
             try
             {
-                if (!System.IO.File.Exists(yedekler))
+                if (!System.IO.Directory.Exists(path_log))
                 {
-                    System.IO.Directory.CreateDirectory(yedekler);
+                    System.IO.Directory.CreateDirectory(path_log);
                 }
             }
             catch (Exception ex)
             {
-                loglar = "YEDEKLER KLASÖRÜ YOK VEYA OLUŞTURULAMADI : " +
-                         DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                loglar = "YEDEKLER KLASÖRÜ YOK VEYA OLUŞTURULAMADI : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                 Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
             }
@@ -101,8 +101,8 @@ namespace azerbaycan_mysqlc
 
         public static void islemyap()
         {
-            MessageBox.Show("World Olympia Fitness Salonu");
-            loglar = "WorldOlympia Fitness Programı v4.4 " + tab + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            MessageBox.Show("ZFitness Salonu");
+            loglar = "ZFitness Programı v4.60 " + tab + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             Console.WriteLine(yenisatir + tab + loglar);
             File.AppendAllText(path, yenisatir + yenisatir + loglar);
 
@@ -295,11 +295,11 @@ namespace azerbaycan_mysqlc
                                             {
                                                 try
                                                 {
-                                                    if (dt.Rows[i]["card_no"] != null)
+                                                    if (dt.Rows[i]["card_id"] != null)
                                                     {
-                                                        if (dt.Rows[i]["card_no"].ToString().TrimEnd() != "")
+                                                        if (dt.Rows[i]["card_id"].ToString().TrimEnd() != "")
                                                         {
-                                                            kisi.kart_no = dt.Rows[i]["card_no"].ToString().TrimEnd();
+                                                            kisi.kart_no = dt.Rows[i]["card_id"].ToString().TrimEnd();
                                                         }
                                                     }
                                                 }
@@ -582,11 +582,11 @@ namespace azerbaycan_mysqlc
                                             {
                                                 try
                                                 {
-                                                    if (dt.Rows[i]["card_no"] != null)
+                                                    if (dt.Rows[i]["card_id"] != null)
                                                     {
-                                                        if (dt.Rows[i]["card_no"].ToString().TrimEnd() != "")
+                                                        if (dt.Rows[i]["card_id"].ToString().TrimEnd() != "")
                                                         {
-                                                            kisi.kart_no = dt.Rows[i]["card_no"].ToString().TrimEnd();
+                                                            kisi.kart_no = dt.Rows[i]["card_id"].ToString().TrimEnd();
                                                         }
                                                     }
                                                 }
@@ -757,7 +757,6 @@ namespace azerbaycan_mysqlc
                     mika_hareket_dt.Columns.Add("kart_no", typeof(string));
                     mika_hareket_dt.Columns.Add("event", typeof(string));
 
-
                     MySqlConnection baglanti = new MySqlConnection(sqlbaglanti);
                     baglanti.Open();
 
@@ -772,114 +771,116 @@ namespace azerbaycan_mysqlc
                     {
                         for (int xz = 0; xz < dt_ipler.Rows.Count; xz++)
                         {
-                            if (dt_ipler.Rows[xz]["device_ip"] != null)
+                            if (dt_ipler.Rows[xz]["device_ip"] != null &&
+                                dt_ipler.Rows[xz]["device_ip"].ToString().TrimEnd() != "")
                             {
-                                if (dt_ipler.Rows[xz]["device_ip"].ToString().TrimEnd() != "")
+                                string cihazip = dt_ipler.Rows[xz]["device_ip"].ToString().TrimEnd();
+                                string cihazport = "9780";
+
+                                int gelenveri = 0;
+                                string msj = "";
+                                mika_hareket_dt = mika.mika_vericek(cihazip.TrimEnd(), cihazport.TrimEnd(),
+                                    ref gelenveri, ref msj);
+
+                                if (msj.TrimEnd() != "")
                                 {
-                                    string cihazip = dt_ipler.Rows[xz]["device_ip"].ToString().TrimEnd();
-                                    string cihazport = "9780";
-
-
-                                    int gelenveri = 0;
-                                    string msj = "";
-                                    mika_hareket_dt = mika.mika_vericek(cihazip.TrimEnd(), cihazport.TrimEnd(),
-                                        ref gelenveri, ref msj);
-
-                                    if (msj.TrimEnd() != "")
+                                    loglar = cihazip + " VERiLER ALINIRKEN HATA : " + msj.TrimEnd();
+                                    Console.WriteLine(tab + loglar);
+                                    File.AppendAllText(path, yenisatir + loglar);
+                                }
+                                else
+                                {
+                                    if (gelenveri > 0)
                                     {
-                                        loglar = cihazip + " VERiLER ALINIRKEN HATA : " + msj.TrimEnd();
+                                        loglar = cihazip + " iPLi CiHAZDAN VERiLER ALINDI, GELEN VERi ADEDi : " +
+                                                 gelenveri;
                                         Console.WriteLine(tab + loglar);
                                         File.AppendAllText(path, yenisatir + loglar);
                                     }
                                     else
                                     {
-                                        if (gelenveri > 0)
-                                        {
-                                            loglar = cihazip + " iPLi CiHAZDAN VERiLER ALINDI, GELEN VERi ADEDi : " +
-                                                     gelenveri;
-                                            Console.WriteLine(tab + loglar);
-                                            File.AppendAllText(path, yenisatir + loglar);
-                                        }
-                                        else
-                                        {
-                                            loglar = cihazip + " iPLi CiHAZDAN HiC VERi GELMEDi";
-                                            Console.WriteLine(tab + loglar);
-                                            File.AppendAllText(path, yenisatir + loglar);
-                                        }
+                                        loglar = cihazip + " iPLi CiHAZDAN HiC VERi GELMEDi";
+                                        Console.WriteLine(tab + loglar);
+                                        File.AppendAllText(path, yenisatir + loglar);
+                                    }
 
-                                        try
+                                    try
+                                    {
+                                        if (mika_hareket_dt.Rows.Count > 0)
                                         {
-                                            if (mika_hareket_dt.Rows.Count > 0)
+                                            for (int mk = 0; mk < mika_hareket_dt.Rows.Count; mk++)
                                             {
-                                                for (int mk = 0; mk < mika_hareket_dt.Rows.Count; mk++)
+                                                if (mika_hareket_dt.Rows[mk]["kart_no"] != null &&
+                                                    mika_hareket_dt.Rows[mk]["tarih"] != null &&
+                                                    mika_hareket_dt.Rows[mk]["kapi_no"] != null &&
+                                                    mika_hareket_dt.Rows[mk]["event"] != null)
                                                 {
-                                                    if (mika_hareket_dt.Rows[mk]["kart_no"] != null &&
-                                                        mika_hareket_dt.Rows[mk]["tarih"] != null &&
-                                                        mika_hareket_dt.Rows[mk]["kapi_no"] != null &&
-                                                        mika_hareket_dt.Rows[mk]["event"] != null)
+                                                    if (mika_hareket_dt.Rows[mk]["kart_no"].ToString().TrimEnd() !=
+                                                        "" &&
+                                                        mika_hareket_dt.Rows[mk]["tarih"].ToString().TrimEnd() != "" &&
+                                                        mika_hareket_dt.Rows[mk]["kapi_no"].ToString().TrimEnd() !=
+                                                        "" &&
+                                                        mika_hareket_dt.Rows[mk]["event"].ToString().TrimEnd() != "")
                                                     {
-                                                        if (mika_hareket_dt.Rows[mk]["kart_no"].ToString().TrimEnd() !=
-                                                            "" &&
-                                                            mika_hareket_dt.Rows[mk]["tarih"].ToString().TrimEnd() !=
-                                                            "" && mika_hareket_dt.Rows[mk]["kapi_no"].ToString()
-                                                                .TrimEnd() != "" && mika_hareket_dt.Rows[mk]["event"]
-                                                                .ToString().TrimEnd() != "")
+                                                        string insert =
+                                                            "insert into device_records (cardno, record_date, door_no, status) VALUES (@cardno, @record_date, @door_no, @status)";
+                                                        using (MySqlCommand cmd = new MySqlCommand(insert, baglanti))
                                                         {
-                                                            string insert =
-                                                                "insert into device_records (cardno,record_date,door_no,status) VALUES ('" +
+                                                            cmd.Parameters.AddWithValue("@cardno",
                                                                 mika_hareket_dt.Rows[mk]["kart_no"].ToString()
-                                                                    .TrimEnd() + "','" +
+                                                                    .TrimEnd());
+                                                            cmd.Parameters.AddWithValue("@record_date",
                                                                 Convert.ToDateTime(mika_hareket_dt.Rows[mk]["tarih"]
                                                                         .ToString().TrimEnd())
-                                                                    .ToString("yyyy-MM-dd HH:mm:ss") + "','" +
+                                                                    .ToString("yyyy-MM-dd HH:mm:ss"));
+                                                            cmd.Parameters.AddWithValue("@door_no",
                                                                 mika_hareket_dt.Rows[mk]["kapi_no"].ToString()
-                                                                    .TrimEnd() + "','" +
-                                                                mika_hareket_dt.Rows[mk]["event"].ToString().TrimEnd() +
-                                                                "')";
-                                                            using (MySqlCommand cmd =
-                                                                new MySqlCommand(insert, baglanti))
+                                                                    .TrimEnd());
+                                                            cmd.Parameters.AddWithValue("@status",
+                                                                mika_hareket_dt.Rows[mk]["event"].ToString().TrimEnd());
+
+                                                            int kontrol = cmd.ExecuteNonQuery();
+                                                            if (kontrol > 0)
                                                             {
-                                                                int kontrol = cmd.ExecuteNonQuery();
-                                                                if (kontrol > 0)
-                                                                {
-                                                                    loglar = "KART NO : " +
-                                                                             mika_hareket_dt.Rows[mk]["kart_no"]
-                                                                                 .ToString().TrimEnd() + ", TARiH : " +
-                                                                             mika_hareket_dt.Rows[mk]["tarih"]
-                                                                                 .ToString().TrimEnd() +
-                                                                             " HAREKETi TABLOYA YAZILDI";
-                                                                    Console.WriteLine(tab + loglar);
-                                                                    File.AppendAllText(path, yenisatir + loglar);
+                                                                loglar = "KART NO : " +
+                                                                         mika_hareket_dt.Rows[mk]["kart_no"].ToString()
+                                                                             .TrimEnd() + ", TARiH : " +
+                                                                         mika_hareket_dt.Rows[mk]["tarih"].ToString()
+                                                                             .TrimEnd() + " HAREKETi TABLOYA YAZILDI";
+                                                                Console.WriteLine(tab + loglar);
+                                                                File.AppendAllText(path, yenisatir + loglar);
+                                                            }
+                                                            else
+                                                            {
+                                                                loglar = "KART NO : " +
+                                                                         mika_hareket_dt.Rows[mk]["kart_no"].ToString()
+                                                                             .TrimEnd() + ", TARiH : " +
+                                                                         mika_hareket_dt.Rows[mk]["tarih"].ToString()
+                                                                             .TrimEnd() +
+                                                                         " HAREKETi TABLOYA YAZILAMADI (MYSQL HATASI)";
+                                                                Console.WriteLine(tab + loglar);
+                                                                File.AppendAllText(path, yenisatir + loglar);
+
+                                                                string logs =
+                                                                    mika_hareket_dt.Rows[mk]["kart_no"].ToString()
+                                                                        .TrimEnd() + "_" +
+                                                                    mika_hareket_dt.Rows[mk]["tarih"].ToString()
+                                                                        .TrimEnd() + "_" +
+                                                                    mika_hareket_dt.Rows[mk]["kapi_no"].ToString()
+                                                                        .TrimEnd() + "_" +
+                                                                    mika_hareket_dt.Rows[mk]["event"].ToString()
+                                                                        .TrimEnd();
+
+                                                                try
+                                                                { // Write to log file using 'using' statement for proper resource management
+                                                                    AppendLogsToLogFile(logs);
                                                                 }
-                                                                else
+                                                                catch (Exception ex)
                                                                 {
-                                                                    loglar = "KART NO : " +
-                                                                             mika_hareket_dt.Rows[mk]["kart_no"]
-                                                                                 .ToString().TrimEnd() + ", TARiH : " +
-                                                                             mika_hareket_dt.Rows[mk]["tarih"]
-                                                                                 .ToString().TrimEnd() +
-                                                                             " HAREKETi TABLOYA YAZILAMADI (MYSQL HATASI)";
+                                                                    loglar = "LOG YAZILIRKEN HATA : " + ex.Message;
                                                                     Console.WriteLine(tab + loglar);
                                                                     File.AppendAllText(path, yenisatir + loglar);
-
-                                                                    string logs =
-                                                                        mika_hareket_dt.Rows[mk]["kart_no"].ToString()
-                                                                            .TrimEnd() + "_" +
-                                                                        mika_hareket_dt.Rows[mk]["tarih"].ToString()
-                                                                            .TrimEnd() + "_" +
-                                                                        mika_hareket_dt.Rows[mk]["kapi_no"].ToString()
-                                                                            .TrimEnd() + "_" +
-                                                                        mika_hareket_dt.Rows[mk]["event"].ToString()
-                                                                            .TrimEnd();
-
-                                                                    FileStream fs =
-                                                                        new FileStream(
-                                                                            yedekler + "\\log_yazilmayanlar.txt",
-                                                                            FileMode.Append, FileAccess.Write);
-                                                                    StreamWriter sw = new StreamWriter(fs);
-                                                                    sw.WriteLine(logs);
-                                                                    sw.Flush();
-                                                                    sw.Close();
+                                                                    AppendLogsToLogFile(logs);
                                                                 }
                                                             }
                                                         }
@@ -887,16 +888,13 @@ namespace azerbaycan_mysqlc
                                                 }
                                             }
                                         }
-                                        catch
-                                        {
-                                        }
                                     }
-                                }
-                                else
-                                {
-                                    loglar = "VERiTABANI DE CiHAZ VERiSi DOLU OLMAYAN VERiYE DENK GELDi";
-                                    Console.WriteLine(tab + loglar);
-                                    File.AppendAllText(path, yenisatir + loglar);
+                                    catch (Exception ex)
+                                    {
+                                        loglar = "ONLINE VERi YAZILIRKEN HATA : " + ex.Message;
+                                        Console.WriteLine(tab + loglar);
+                                        File.AppendAllText(path, yenisatir + loglar);
+                                    }
                                 }
                             }
                             else
@@ -905,7 +903,7 @@ namespace azerbaycan_mysqlc
                                 Console.WriteLine(tab + loglar);
                                 File.AppendAllText(path, yenisatir + loglar);
                             }
-                        } // FOR END
+                        }
                     }
                     else
                     {
@@ -934,7 +932,7 @@ namespace azerbaycan_mysqlc
 
                 #region TXT KONTROL
 
-                if (File.Exists(yedekler + "\\log_yazilmayanlar.txt"))
+                if (File.Exists(logsFileName))
                 {
                     DataTable dt_1 = new DataTable();
                     dt_1.Columns.Add("kartno", typeof(string));
@@ -942,7 +940,7 @@ namespace azerbaycan_mysqlc
                     dt_1.Columns.Add("kapino", typeof(string));
                     dt_1.Columns.Add("sonuc", typeof(string));
 
-                    dt_1 = vericek(yedekler + "\\log_yazilmayanlar.txt");
+                    dt_1 = vericek(logsFileName);
 
                     if (dt_1.Rows.Count > 0)
                     {
@@ -1025,9 +1023,9 @@ namespace azerbaycan_mysqlc
 
                             if (gonderilen == dt_1.Rows.Count)
                             {
-                                if (File.Exists(yedekler + "\\log_yazilmayanlar.txt"))
+                                if (File.Exists(logsFileName))
                                 {
-                                    File.WriteAllText(yedekler + "\\log_yazilmayanlar.txt", string.Empty);
+                                    File.WriteAllText(logsFileName, string.Empty);
                                 }
 
                                 loglar = "TXT OKUNDU VE BÜTÜN VEiRLER VERiTABANiNA GÖNDERiLDi, TOPLAM KAYIT : " +
@@ -1055,12 +1053,12 @@ namespace azerbaycan_mysqlc
                 loglar = alttancizgi;
                 Console.WriteLine(loglar);
                 File.AppendAllText(path, yenisatir + loglar);
-                loglar = "iŞLEMLER 2 DK SONRA TEKRAR BAŞLAYACAK : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                loglar = "iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                 Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
 
 
-                Thread.Sleep(120000); // 2 dk bekle
+                Thread.Sleep(60000); // 2 dk bekle
             } // while end
         }
 
@@ -1267,6 +1265,7 @@ namespace azerbaycan_mysqlc
         public static void hareket_yaz(string kisi_id, string kartno, string tarih, string kapi_no, string sonuc,
             string ip)
         {
+            string logs;
             try
             {
                 MySqlConnection baglanti = new MySqlConnection(sqlbaglanti);
@@ -1288,19 +1287,13 @@ namespace azerbaycan_mysqlc
                     }
                     else
                     {
+                        logs = kartno.TrimEnd() + "_" + tarih.TrimEnd() + "_" + kapi_no.TrimEnd() + "_" +
+                               sonuc.TrimEnd();
+                        AppendLogsToLogFile(logs);
                         loglar = "KART NO : " + kartno.TrimEnd() + ", TARiH : " + tarih.TrimEnd() +
                                  " HAREKETi TABLOYA YAZILAMADI (MYSQL HATASI)";
                         Console.WriteLine(tab + loglar);
                         File.AppendAllText(path, yenisatir + loglar);
-                        string logs = kartno.TrimEnd() + "_" + tarih.TrimEnd() + "_" + kapi_no.TrimEnd() + "_" +
-                                      sonuc.TrimEnd();
-
-                        FileStream fs = new FileStream(yedekler + "\\log_yazilmayanlar.txt", FileMode.Append,
-                            FileAccess.Write);
-                        StreamWriter sw = new StreamWriter(fs);
-                        sw.WriteLine(logs);
-                        sw.Flush();
-                        sw.Close();
                     }
                 }
             }
@@ -1309,6 +1302,7 @@ namespace azerbaycan_mysqlc
                 loglar = "ONLINE VERi YAZILIRKEN HATA : " + ex.Message;
                 Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
+                // AppendLogsToLogFile(logs);
             }
         }
 
@@ -1397,6 +1391,45 @@ namespace azerbaycan_mysqlc
             streamReader.Close();
 
             return dt;
+        }
+
+        // Method to append logs to logs.txt
+        private static void AppendLogsToLogFile(string logs)
+        {
+            try
+            {
+                // Ensure the log directory exists
+                if (!Directory.Exists(path_log))
+                {
+                    Directory.CreateDirectory(path_log);
+                }
+
+                // Check if logs file exists
+                if (!File.Exists(path_yazilmayan))
+                {
+                    // Create logs file if it doesn't exist
+                    using (StreamWriter createLogFile = File.CreateText(path_yazilmayan))
+                    {
+                        createLogFile.WriteLine("Logs:");
+                    }
+                }
+                else
+                {
+                    // Write logs to logs file
+                    using (StreamWriter logWriter = new StreamWriter(path_yazilmayan, true))
+                    {
+                        logWriter.WriteLine(logs);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // Log the full exception including the stack trace
+                Console.WriteLine($"Error writing logs to {logsFileName}: {ex.ToString()}");
+
+                // Optionally, you can re-throw the exception to propagate it further
+                // throw;
+            }
         }
 
 

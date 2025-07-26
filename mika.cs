@@ -37,23 +37,23 @@ namespace azerbaycan_mysqlc
                     baglimi = false;
                     if (ex.Message.IndexOf("Bağlanılan belli bir") != -1)
                     {
-                        mesaj.Add("Bağlantı yoktu");
+                        mesaj.Add("Bağlantı yoktur_0");
                     }
                     else if (ex.Message.IndexOf("Bir yuva işlemi erişilemeyen") != -1)
                     {
-                        mesaj.Add("Bağlantı yoktur");
+                        mesaj.Add("Bağlantı yoktur_1");
                     }
                     else if (ex.Message.IndexOf("Bağlanılan uygun olarak") != -1)
                     {
-                        mesaj.Add("Bağlantı yoktur");
+                        mesaj.Add(ex.Message+" Bağlantı yoktur_2");
                     }
                     else if (ex.Message.IndexOf("A request to send") != -1)
                     {
-                        mesaj.Add("Bağlantı yoktur");
+                        mesaj.Add("Bağlantı yoktur_3");
                     }
                     else if (ex.Message.IndexOf("A socket operation") != -1)
                     {
-                        mesaj.Add("Bağlantı yoktur");
+                        mesaj.Add("Bağlantı yoktur_4");
                     }
                     else if (ex.Message.IndexOf("A connection attempt") != -1)
                     {
@@ -611,7 +611,7 @@ namespace azerbaycan_mysqlc
                                     {
                                         if (baglanti.State == ConnectionState.Open)
                                         {
-                                            string updd = "update cards set is_update = 'yes' where card_no = '" +
+                                            string updd = "update cards set is_update = 'yes' where card_id = '" +
                                                           kisiler[kis].kart_no.TrimEnd() + "'";
                                             using (MySqlCommand cmd = new MySqlCommand(updd, baglanti))
                                             {
