@@ -1,0 +1,8 @@
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\bin\Debug\ZFitness.exe.config
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\bin\Debug\ZFitness.exe
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\bin\Debug\ZFitness.pdb
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\obj\Debug\ZFitness.csproj.AssemblyReference.cache
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\obj\Debug\ZFitness.csproj.CoreCompileInputs.cache
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\obj\Debug\ZFitness.csproj.Up2Date
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\obj\Debug\ZFitness.exe
+D:\Users\SuleymaN\Desktop\temp\14 ZFitnes\ZFitness\obj\Debug\ZFitness.pdb

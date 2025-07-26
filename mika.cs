@@ -10,7 +10,7 @@ using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace azerbaycan_mysqlc
+namespace ZFitness
 {
     class mika
     {
@@ -29,6 +29,9 @@ namespace azerbaycan_mysqlc
                 bool baglimi = false;
                 try
                 {
+                    // Socket timeout ayarları - bağlantı koptuktan sonra daha iyi performans için
+                    server.ReceiveTimeout = 10000; // 10 saniye
+                    server.SendTimeout = 10000; // 10 saniye
                     server.Connect(ipm);
                     baglimi = true;
                 }
@@ -759,6 +762,9 @@ namespace azerbaycan_mysqlc
                 bool baglimi = false;
                 try
                 {
+                    // Socket timeout ayarları - bağlantı koptuktan sonra daha iyi performans için
+                    serversocket.ReceiveTimeout = 10000; // 10 saniye
+                    serversocket.SendTimeout = 10000; // 10 saniye
                     serversocket.Connect(ipend);
                     baglimi = true;
                 }
@@ -799,7 +805,11 @@ namespace azerbaycan_mysqlc
                 {
                     try
                     {
-                        for (int o = 0; o < 100000; o++)
+                        // Bağlantı koptuktan sonra tüm kayıtları almak için döngüyü optimize ediyoruz
+                        int maxIterations = 50; // Maksimum 50 iterasyon
+                        int totalRecordsProcessed = 0;
+                        
+                        for (int o = 0; o < maxIterations; o++)
                         {
                             byte son = 0x00;
                             if (o > 0)
@@ -826,6 +836,7 @@ namespace azerbaycan_mysqlc
                                 if (toplamlog > 0)
                                 {
                                     int j = 0;
+                                    // Tüm kayıtları işle, sadece ilk 6'sını değil
                                     for (int i = 1; i <= toplamlog; i++)
                                     {
                                         j = 11 + ((i - 1) * 28);
@@ -951,14 +962,23 @@ namespace azerbaycan_mysqlc
                                                         dw["event"] = EventType.TrimEnd();
                                                         mika_hareket_dt.Rows.Add(dw);
                                                         gelen++;
+                                                        totalRecordsProcessed++;
                                                     }
                                                 }
                                                 catch (Exception ex)
                                                 {
+                                                    // Hata durumunda log ekleyelim
+                                                    mesaj += "Kayıt işlenirken hata: " + ex.Message + " ";
                                                 }
                                             }
                                         }
                                     } // for bıttı
+                                    
+                                    // Toplam işlenen kayıt sayısını logla
+                                    if (totalRecordsProcessed > 0)
+                                    {
+                                        mesaj += "Toplam " + totalRecordsProcessed + " kayıt işlendi. ";
+                                    }
                                 }
                                 else
                                 {

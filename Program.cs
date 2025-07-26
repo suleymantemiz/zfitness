@@ -20,7 +20,7 @@ namespace ZFitness
     {
         public static string dosyayolu = AppDomain.CurrentDomain.BaseDirectory;
         public static string path_log = dosyayolu + "\\log";
-        public static string logsFileName = "\\loglar.txt";
+        public static string logsFileName = "loglar.txt";
         public static string path_yazilmayan = Path.Combine(path_log, logsFileName);
         public static string path = path_log + "\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
         public static string loglar = "";
@@ -32,7 +32,7 @@ namespace ZFitness
             "-------------------------------------------------------------------------------------";
 
         public static string sqlbaglanti =
-            "Database=worldolympia_new; Data Source=worldolympia.com; User ID=worldolympia_remoteruser; password=*^7M]+C9K?r&";
+            "Database=zfitness_fitness_db; Data Source=zfitnes.az; User ID=zfiness_fitness_user; password=r6.a1&WdhFl)a1%4+5S!";
 
         //public static 
 
@@ -779,8 +779,31 @@ namespace ZFitness
 
                                 int gelenveri = 0;
                                 string msj = "";
-                                mika_hareket_dt = mika.mika_vericek(cihazip.TrimEnd(), cihazport.TrimEnd(),
-                                    ref gelenveri, ref msj);
+                                int retryCount = 0;
+                                const int maxRetries = 3;
+                                
+                                // Bağlantı koptuktan sonra tüm kayıtları almak için retry mekanizması
+                                while (retryCount < maxRetries)
+                                {
+                                    mika_hareket_dt = mika.mika_vericek(cihazip.TrimEnd(), cihazport.TrimEnd(),
+                                        ref gelenveri, ref msj);
+                                    
+                                    // Eğer veri geldiyse veya hata mesajı boşsa döngüden çık
+                                    if (gelenveri > 0 || string.IsNullOrEmpty(msj) || msj.TrimEnd() == "")
+                                    {
+                                        break;
+                                    }
+                                    
+                                    retryCount++;
+                                    if (retryCount < maxRetries)
+                                    {
+                                        // 2 saniye bekle ve tekrar dene
+                                        Thread.Sleep(2000);
+                                        loglar = cihazip + " Bağlantı yeniden deneniyor... Deneme " + retryCount + "/" + maxRetries;
+                                        Console.WriteLine(tab + loglar);
+                                        File.AppendAllText(path, yenisatir + loglar);
+                                    }
+                                }
 
                                 if (msj.TrimEnd() != "")
                                 {
@@ -793,13 +816,13 @@ namespace ZFitness
                                     if (gelenveri > 0)
                                     {
                                         loglar = cihazip + " iPLi CiHAZDAN VERiLER ALINDI, GELEN VERi ADEDi : " +
-                                                 gelenveri;
+                                                 gelenveri + " (Retry: " + retryCount + ")";
                                         Console.WriteLine(tab + loglar);
                                         File.AppendAllText(path, yenisatir + loglar);
                                     }
                                     else
                                     {
-                                        loglar = cihazip + " iPLi CiHAZDAN HiC VERi GELMEDi";
+                                        loglar = cihazip + " iPLi CiHAZDAN HiC VERi GELMEDi (Retry: " + retryCount + ")";
                                         Console.WriteLine(tab + loglar);
                                         File.AppendAllText(path, yenisatir + loglar);
                                     }
@@ -1425,7 +1448,9 @@ namespace ZFitness
             catch (Exception ex)
             {
                 // Log the full exception including the stack trace
-                Console.WriteLine($"Error writing logs to {logsFileName}: {ex.ToString()}");
+                Console.WriteLine($"Error writing logs to {path_yazilmayan}: {ex.ToString()}");
+                Console.WriteLine($"Log directory: {path_log}");
+                Console.WriteLine($"Log file: {logsFileName}");
 
                 // Optionally, you can re-throw the exception to propagate it further
                 // throw;
