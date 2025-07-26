@@ -62,3 +62,3058 @@ TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 08:20:28
 TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 08:20:28
 -------------------------------------------------------------------------------------
 iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 08:20:28
+
+ZFitness Programı v4.60     2025-07-26 11:11:08
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:11:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:11:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:11:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:11:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:11:08
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:11:08
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:12:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:12:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:12:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:12:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:12:08
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:12:08
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:13:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:13:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:13:08
+Hata Unable to connect to any of the specified MySQL hosts.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:13:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:13:08
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:13:08
+
+ZFitness Programı v4.60     2025-07-26 11:13:44
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:13:44
+Hata Access denied for user 'zfiness_fitness_user'@'91.191.207.84' (using password: YES)
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:13:45
+Hata Access denied for user 'zfiness_fitness_user'@'91.191.207.84' (using password: YES)
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:13:45
+Hata Access denied for user 'zfiness_fitness_user'@'91.191.207.84' (using password: YES)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:13:45
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:13:45
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:13:45
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:14:45
+Hata Access denied for user 'zfiness_fitness_user'@'91.191.207.84' (using password: YES)
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:14:45
+Hata Access denied for user 'zfiness_fitness_user'@'91.191.207.84' (using password: YES)
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:14:46
+Hata Access denied for user 'zfiness_fitness_user'@'91.191.207.84' (using password: YES)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:14:46
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:14:46
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:14:46
+
+ZFitness Programı v4.60     2025-07-26 11:15:43
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:15:43
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:15:44
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:15:45
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:15:45
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:15:45
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:15:45
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:16:45
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:16:46
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:16:47
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:16:47
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:16:47
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:16:47
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:17:47
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:17:48
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:17:49
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:17:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:17:50
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:17:50
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:18:50
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:18:50
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:18:51
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:18:52
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:18:52
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:18:52
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:19:52
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:19:52
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:19:52
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:19:52
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:19:52
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:19:52
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:20:52
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:20:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:20:53
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:20:53
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:20:53
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:20:53
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:21:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:21:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:21:53
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:21:54
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:21:54
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:21:54
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:22:54
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:22:54
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:22:54
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:22:55
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:22:55
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:22:55
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:23:55
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:23:55
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:23:55
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:23:55
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:23:55
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:23:55
+
+ZFitness Programı v4.60     2025-07-26 11:24:53
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:24:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:24:54
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:24:54
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:24:55
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:24:55
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:24:55
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 11:25:22
+KART NO : 2290948, TARiH : 2025-07-26 11:25:22 HAREKETi TABLOYA YAZILDI
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 8556200 TARiH = 2025-07-26 11:25:25
+KART NO : 8556200, TARiH : 2025-07-26 11:25:25 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:25:55
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:25:56
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:25:56
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:25:57
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:25:57
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:25:57
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:26:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:26:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:26:58
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:26:59
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:26:59
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:26:59
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:27:59
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:28:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:28:00
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:28:00
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:28:00
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:28:00
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:29:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:29:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:29:01
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:29:01
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:29:01
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:29:01
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:30:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:30:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:30:01
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:30:02
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:30:02
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:30:02
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:31:02
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:31:02
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:31:03
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:31:03
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:31:03
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:31:03
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:32:03
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:32:04
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:32:05
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:32:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:32:06
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:32:06
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 11:32:57
+KART NO : 2290948, TARiH : 2025-07-26 11:32:57 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:33:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:33:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:33:06
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:33:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:33:06
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:33:06
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 11:34:03
+KART NO : 2290948, TARiH : 2025-07-26 11:34:03 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:34:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:34:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:34:07
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:34:07
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:34:07
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:34:07
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:35:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:35:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:35:07
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:35:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:35:08
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:35:08
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:36:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:36:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:36:08
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:36:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:36:08
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:36:08
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:37:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:37:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:37:10
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:37:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:37:11
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:37:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:38:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:38:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:38:12
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:38:13
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:38:13
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:38:13
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:39:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:39:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:39:14
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:39:15
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:39:15
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:39:15
+
+ZFitness Programı v4.60     2025-07-26 11:39:34
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:39:34
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:40:06
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:40:37
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:41:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:41:09
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:41:09
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:42:09
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:42:40
+
+ZFitness Programı v4.60     2025-07-26 11:43:00
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:43:00
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:43:00
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:43:00
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:43:00
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:43:00
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:43:00
+
+ZFitness Programı v4.60     2025-07-26 11:43:36
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:43:36
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:43:36
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:43:36
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:43:36
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:43:36
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:43:36
+
+ZFitness Programı v4.60     2025-07-26 11:44:42
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:44:42
+Veritabanı bağlantı hatası: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:45:13
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:45:45
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:46:16
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:46:16
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:46:16
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:47:16
+Veritabanı bağlantı hatası: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:47:48
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:48:19
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:48:50
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:48:51
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:48:51
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:49:51
+Veritabanı bağlantı hatası: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:50:22
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:50:53
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:51:25
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:51:25
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:51:25
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:52:25
+Veritabanı bağlantı hatası: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:52:56
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:53:27
+Hata Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:53:59
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:53:59
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:53:59
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:54:59
+
+ZFitness Programı v4.60     2025-07-26 11:57:49
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:57:49
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:57:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:57:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:57:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:57:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:57:49
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:58:49
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:58:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:58:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:58:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:58:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:58:49
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 11:59:49
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 11:59:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 11:59:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 11:59:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 11:59:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 11:59:49
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:00:49
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:00:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:00:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:00:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:00:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:00:49
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:01:49
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:01:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:01:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:01:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:01:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:01:49
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:02:49
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:02:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:02:49
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:02:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:02:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:02:49
+
+ZFitness Programı v4.60     2025-07-26 12:03:44
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:03:44
+Veritabanı bağlantı hatası: Unknown database 'ztfitness' - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:03:44
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:03:44
+Hata Unknown database 'ztfitness'
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:03:44
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:03:44
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:03:44
+
+ZFitness Programı v4.60     2025-07-26 12:04:56
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:04:56
+Veritabanı bağlantı hatası: Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan
+bağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:05:28
+
+ZFitness Programı v4.60     2025-07-26 12:06:14
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:06:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:06:15
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:06:16
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:06:17
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:06:17
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:06:17
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 12:06:21
+KART NO : 2290948, TARiH : 2025-07-26 12:06:21 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:07:17
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:07:17
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:07:18
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:07:19
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:07:19
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:07:19
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:08:19
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:08:19
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:08:20
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:08:21
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:08:21
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:08:21
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:09:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:09:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:09:22
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:09:22
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:09:22
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:09:22
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:10:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:10:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:10:23
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:10:23
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:10:23
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:10:23
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:11:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:11:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:11:24
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:11:24
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:11:24
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:11:24
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:12:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:12:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:12:24
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:12:25
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:12:25
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:12:25
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:13:25
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:13:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:13:27
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:13:27
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:13:27
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:13:27
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:14:27
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:14:28
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:14:29
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:14:29
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:14:29
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:14:29
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:15:29
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:15:30
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:15:31
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:15:31
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:15:31
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:15:31
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:16:31
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:16:32
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:16:33
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:16:34
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:16:34
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:16:34
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:17:34
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:17:34
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:17:35
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:17:35
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:17:35
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:17:35
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:18:35
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:18:35
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:18:36
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:18:36
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:18:36
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:18:36
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:19:36
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:19:36
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:19:36
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:19:37
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:19:37
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:19:37
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:20:37
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:20:37
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:20:37
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:20:37
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:20:37
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:20:37
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:21:37
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:21:38
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:21:39
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:21:40
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:21:40
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:21:40
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:22:40
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:22:40
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:22:41
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:22:42
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:22:42
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:22:42
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:23:42
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:23:43
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:23:43
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:23:44
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:23:44
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:23:44
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:24:44
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:24:45
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:24:46
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:24:47
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:24:47
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:24:47
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:25:47
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:25:47
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:25:48
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:25:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:25:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:25:49
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:26:49
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:26:49
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:26:49
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:26:50
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:26:50
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:26:50
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:27:50
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:27:50
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:27:50
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:27:50
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:27:50
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:27:50
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:28:50
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:28:51
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:28:51
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:28:51
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:28:51
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:28:51
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:29:51
+Veritabanı bağlantı hatası: Table 'zfitness_fitness_db.device_add_card' doesn't exist - Program cihazlardan veri almaya devam edecek
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:29:51
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:29:51
+Hata Table 'zfitness_fitness_db.device_add_card' doesn't exist
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:29:52
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:29:52
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:29:52
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 12:30:43
+KART NO : 2290948, TARiH : 2025-07-26 12:30:43 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:30:52
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:30:52
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:30:53
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:30:54
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:30:54
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:30:54
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:31:54
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:31:55
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:31:55
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 6 kayıt işlendi.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:31:56
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:31:56
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:31:56
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:32:56
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:32:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:32:57
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:32:58
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:32:58
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:32:58
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:33:58
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:33:59
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:34:00
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:34:00
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:34:00
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:34:00
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:35:00
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:35:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:35:01
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:35:01
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:35:01
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:35:01
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:36:01
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:36:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:36:02
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:36:02
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:36:02
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:36:02
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:37:02
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:37:02
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:37:02
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:37:03
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:37:03
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:37:03
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:38:03
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:38:03
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:38:03
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:38:04
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:38:04
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:38:04
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:39:04
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:39:04
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:39:04
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:39:04
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:39:04
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:39:04
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:40:04
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:40:05
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:40:05
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:40:05
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:40:05
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:40:05
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:41:05
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:41:05
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:41:06
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:41:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:41:06
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:41:06
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:42:06
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:42:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:42:07
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:42:07
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:42:07
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:42:07
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:43:07
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:43:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:43:08
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 12:43:07
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 1 kayıt işlendi.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:43:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:43:09
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:43:09
+KART NO : 2290948, TARiH : 2025-07-26 12:43:07 HAREKETi TABLOYA YAZILDI
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 12:43:43
+KART NO : 2290948, TARiH : 2025-07-26 12:43:43 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:44:09
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:44:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:44:11
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 1 kayıt işlendi.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:44:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:44:11
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:44:11
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 12:44:23
+KART NO : 2290948, TARiH : 2025-07-26 12:44:23 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:45:11
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:45:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:45:13
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 1 kayıt işlendi.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:45:13
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:45:13
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:45:13
+
+ZFitness Programı v4.60     2025-07-26 12:46:03
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:46:03
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:46:04
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:46:04
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:46:05
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:46:05
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:46:05
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:47:05
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:47:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:47:06
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:47:07
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:47:07
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:47:07
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:48:07
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:48:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:48:09
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:48:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:48:09
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:48:09
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:49:09
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:49:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:49:11
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:49:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:49:11
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:49:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:50:11
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:50:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:50:12
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:50:12
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:50:12
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:50:12
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:51:12
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:51:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:51:12
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:51:13
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:51:13
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:51:13
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:52:13
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:52:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:52:14
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:52:14
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:52:14
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:52:14
+
+ZFitness Programı v4.60     2025-07-26 12:52:42
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:52:42
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:52:43
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:52:44
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:52:44
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:52:44
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:52:44
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:53:44
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:53:45
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:53:46
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:53:47
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:53:47
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:53:47
+
+ZFitness Programı v4.60     2025-07-26 12:55:05
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:55:05
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:55:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:55:07
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:55:07
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:55:07
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:55:07
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:56:07
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:56:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:56:09
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:56:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:56:09
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:56:09
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:57:09
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:57:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:57:11
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:57:12
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:57:12
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:57:12
+
+ZFitness Programı v4.60     2025-07-26 12:58:56
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:58:56
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:58:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 12:58:58
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 12:58:58
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 12:58:58
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 12:58:58
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 12:59:58
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 12:59:59
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:00:00
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:00:00
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:00:00
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:00:00
+
+ZFitness Programı v4.60     2025-07-26 13:01:00
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:01:00
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:01:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:01:02
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:01:03
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:01:03
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:01:03
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:02:03
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:02:03
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:02:04
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:02:05
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:02:05
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:02:05
+
+ZFitness Programı v4.60     2025-07-26 13:02:57
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:02:57
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:02:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:02:59
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:03:00
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:03:00
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:03:00
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:04:00
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:04:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:04:01
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:04:02
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:04:02
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:04:02
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:05:02
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:05:03
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:05:04
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:05:05
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:05:05
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:05:05
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:06:05
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:06:05
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:06:06
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:06:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:06:06
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:06:06
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:07:06
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:07:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:07:07
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:07:07
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:07:07
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:07:07
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:08:07
+KiŞi ID : 78998 GELEN VERiDE BOZUK DEĞER VARDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:08:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:08:08
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:08:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:08:08
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:08:08
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:09:08
+KİŞİ İD : 78998, KARTNO : 2290948 , GRUP : 'UYE' CİHAZA GONDERILDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:09:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:09:09
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:09:10
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:09:10
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:09:10
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:10:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:10:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:10:11
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:10:12
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:10:12
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:10:12
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:10:32
+KART NO : 2290948, TARiH : 2025-07-26 13:10:32 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:11:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:11:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:11:13
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:11:14
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:11:14
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:11:14
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:10:53
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:10:58
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:11:01
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:11:05
+KART NO : 2290948, TARiH : 2025-07-26 13:10:58 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:10:53 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:11:01 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:11:05 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:12:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:12:20
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:12:20
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:12:21
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:12:21
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:12:21
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:13:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:13:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:13:21
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:13:22
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:13:22
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:13:22
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:14:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:14:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:14:22
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:14:22
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:14:22
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:14:22
+
+ZFitness Programı v4.60     2025-07-26 13:23:28
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:23:28
+KiŞi ID :  - clients_id değeri bozuk: 'clients_id' sütunu,  tablosuna ait değil.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:23:29
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:23:30
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 5 kayıt işlendi. İterasyon 1: 5 kayıt alındı.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:23:31
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:23:31
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:23:31
+
+ZFitness Programı v4.60     2025-07-26 13:25:02
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:25:02
+KiŞi ID :  - clients_id değeri bozuk: 'clients_id' sütunu,  tablosuna ait değil.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:25:03
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:25:03
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:25:04
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:25:04
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:25:04
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:26:04
+KiŞi ID :  - clients_id değeri bozuk: 'clients_id' sütunu,  tablosuna ait değil.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:26:05
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:26:06
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:26:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:26:06
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:26:06
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:27:06
+KiŞi ID :  - clients_id değeri bozuk: 'clients_id' sütunu,  tablosuna ait değil.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:27:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:27:08
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:27:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:27:09
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:27:09
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:28:09
+KiŞi ID :  - clients_id değeri bozuk: 'clients_id' sütunu,  tablosuna ait değil.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:28:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:28:10
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:28:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:28:11
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:28:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:29:11
+KiŞi ID :  - clients_id değeri bozuk: 'clients_id' sütunu,  tablosuna ait değil.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:29:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:29:11
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:29:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:29:11
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:29:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:30:11
+KiŞi ID :  - clients_id değeri bozuk: 'clients_id' sütunu,  tablosuna ait değil.
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:30:12
+
+ZFitness Programı v4.60     2025-07-26 13:31:04
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:31:04
+KİŞİ İD : 78998, KARTNO : 2290948 , GRUP : 'UYE' CİHAZA GONDERILDI
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:31:05
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:31:06
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:31:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:31:06
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:31:06
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:32:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:32:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:32:08
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:32:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:32:09
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:32:09
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:33:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:33:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:33:10
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:33:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:33:11
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:33:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:34:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:34:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:34:12
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:34:13
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:34:13
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:34:13
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:35:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:35:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:35:13
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:35:14
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:35:14
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:35:14
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:36:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:36:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:36:14
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:36:14
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:36:14
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:36:14
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:37:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:37:15
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:37:15
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:37:16
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:37:16
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:37:16
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:38:16
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:38:16
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:38:17
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:38:18
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:38:18
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:38:18
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:39:18
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:39:18
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:39:19
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:39:20
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:39:20
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:39:20
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:40:20
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:40:20
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:40:21
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:40:22
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:40:22
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:40:22
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:41:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:41:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:41:23
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:41:24
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:41:24
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:41:24
+
+ZFitness Programı v4.60     2025-07-26 13:42:14
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:42:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:42:15
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:42:15
+VERiTABANI DE CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:42:16
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:42:16
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:42:16
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.60     2025-07-26 13:43:47
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:43:47
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:43:48
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:43:49
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 6 kayıt işlendi. İterasyon 1: 6 kayıt alındı.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:43:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:43:49
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:43:49
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:43:57
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:43:57 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:44:03
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:44:03 HAREKETi TABLOYA YAZILDI
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.60     2025-07-26 13:44:55
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:44:55
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:44:55
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:44:56
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 6 kayıt işlendi. İterasyon 1: 6 kayıt alındı.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:44:57
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:44:57
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:44:57
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:45:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:45:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:45:58
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:45:59
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:45:59
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:45:59
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:46:59
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:47:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:47:00
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:47:01
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:47:01
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:47:01
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:48:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:48:02
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:48:02
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:48:03
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:48:03
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:48:03
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.60     2025-07-26 13:49:00
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:49:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:49:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:49:01
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:49:02
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:49:02
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:49:02
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.60     2025-07-26 13:50:10
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:50:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:50:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:50:11
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 6 kayıt işlendi. İterasyon 1: 6 kayıt alındı. Toplam 8 kayıt işlendi. İterasyon 2: 2 kayıt alındı.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:50:12
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:50:12
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:50:12
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:33
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:33 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:37
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:37 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:41
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:41 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:44
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:44 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:47
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:47 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:51
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:51 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:54
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:54 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:50:58
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:50:58 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:51:01
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:51:01 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:51:04
+KART NO : 2290948, TARiH : 2025-07-26 13:51:04 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:51:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:51:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:51:12
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 6 kayıt işlendi. İterasyon 1: 6 kayıt alındı. Toplam 10 kayıt işlendi. İterasyon 2: 4 kayıt alındı.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:51:13
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:51:13
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:51:13
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:52:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:52:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:52:13
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:52:14
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:52:14
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:52:14
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:52:19
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:52:19 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:52:22
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:52:22 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:52:29
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:52:29 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:52:34
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:52:34 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:52:42
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:52:42 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:52:49
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:52:49 HAREKETi TABLOYA YAZILDI
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.60     2025-07-26 13:53:50
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:53:50
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:53:51
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:53:52
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 6 kayıt işlendi. İterasyon 1: 6 kayıt alındı. Toplam 12 kayıt işlendi. İterasyon 2: 6 kayıt alındı. Toplam 16 kayıt işlendi. İterasyon 3: 4 kayıt alındı.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:53:53
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:53:53
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:53:53
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:54:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:54:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+-------------------------------------------------------------------------------------
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:54:54
+192.168.1.200 Bağlantı yeniden deneniyor... Deneme 1/3
+192.168.1.200 Bağlantı yeniden deneniyor... Deneme 2/3
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:54:56
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:02
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:07
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:11
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 6 kayıt işlendi. İterasyon 1: 6 kayıt alındı. Toplam 10 kayıt işlendi. İterasyon 2: 4 kayıt alındı.
+-------------------------------------------------------------------------------------
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:55:44
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:55:44
+-------------------------------------------------------------------------------------
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:55:44
+KART NO : 2290948, TARiH : 2025-07-26 13:54:56 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:16
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:20
+KART NO : 2290948, TARiH : 2025-07-26 13:55:07 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:55:02 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:24
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:55:11 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:55:24 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:28
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:31
+KART NO : 2290948, TARiH : 2025-07-26 13:55:20 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:55:16 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:55:31 HAREKETi TABLOYA YAZILDI
+KART NO : 2290948, TARiH : 2025-07-26 13:55:28 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 13:55:35
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 13:55:35 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.70     2025-07-26 13:59:56
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 13:59:56
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 13:59:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 13:59:57
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 13:59:58
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 13:59:58
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 13:59:58
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.70     2025-07-26 14:00:56
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:00:56
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:00:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:00:58
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:00:58
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:00:58
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:00:58
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:01:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:01:59
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:02:00
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:02:01
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:02:01
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:02:01
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 14:02:03
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 2290948, TARiH : 2025-07-26 14:02:03 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:03:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:03:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:03:02
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 1 kayıt işlendi. İterasyon 1: 1 kayıt alındı.
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:03:03
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:03:03
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:03:03
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:04:03
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:04:04
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:04:04
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:04:04
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:04:04
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:04:04
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.70     2025-07-26 14:04:33
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:04:33
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:04:34
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:04:35
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:04:35
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:04:35
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:04:35
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 8556200 TARiH = 2025-07-26 14:04:36
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+KART NO : 8556200, TARiH : 2025-07-26 14:04:36 HAREKETi TABLOYA YAZILDI
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.70     2025-07-26 14:04:51
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:04:51
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:04:52
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:04:52
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 1 kayıt işlendi. İterasyon 1: 1 kayıt alındı.
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:04:53
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:04:53
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:04:53
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 8556200 TARiH = 2025-07-26 14:05:04
+KART NO : 8556200, TARiH : 2025-07-26 14:05:04 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:05:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:05:54
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:05:55
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 1 kayıt işlendi. İterasyon 1: 1 kayıt alındı.
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:05:55
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:05:55
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:05:55
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:06:55
+KİŞİ GÖNDERME SİLME İÇİNDE GENEL HATA : Giriş dizesi doğru biçimde değildi.
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:06:56
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:06:57
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:06:58
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:06:58
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:06:58
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:07:58
+KİŞİ GÖNDERME SİLME İÇİNDE GENEL HATA : Giriş dizesi doğru biçimde değildi.
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:07:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:07:59
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:07:59
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:07:59
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:07:59
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:08:59
+KİŞİ İD : 78999, KARTNO : 8556200 , GRUP : 'UYE' CİHAZA GONDERILDI
+KİŞİ İD : 79000, KARTNO : 8556200 , GRUP : 'UYE' CİHAZA GONDERILDI
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:09:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:09:00
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:09:00
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:09:00
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:09:00
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:10:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:10:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:10:01
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:10:01
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:10:01
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:10:01
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:11:01
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:11:02
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:11:03
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:11:03
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:11:03
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:11:03
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:12:03
+KİŞİ İD : 79001, KARTNO : 8556200 , GRUP : 'UYE' CİHAZA GONDERILDI
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:12:04
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:12:05
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:12:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:12:06
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:12:06
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:13:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:13:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:13:07
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:13:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:13:08
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:13:08
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:14:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:14:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:14:10
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:14:10
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:14:10
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:14:10
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:15:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:15:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:15:11
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:15:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:15:11
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:15:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:16:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:16:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:16:12
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:16:12
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:16:12
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:16:12
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:17:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:17:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:17:12
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:17:13
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:17:13
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:17:13
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:18:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:18:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:18:13
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:18:13
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:18:13
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:18:13
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:19:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:19:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:19:14
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:19:14
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:19:14
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:19:14
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:20:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:20:15
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:20:16
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:20:16
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:20:16
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:20:16
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:21:16
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:21:17
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:21:18
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:21:18
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:21:18
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:21:18
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:22:18
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:22:19
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:22:20
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:22:21
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:22:21
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:22:21
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:23:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:23:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:23:22
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:23:23
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:23:23
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:23:23
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:24:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:24:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:24:24
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:24:24
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:24:24
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:24:24
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:25:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:25:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:25:24
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:25:25
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:25:25
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:25:25
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:26:25
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:26:25
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:26:25
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:26:25
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:26:25
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:26:25
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:27:25
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:27:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:27:26
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:27:26
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:27:26
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:27:26
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:28:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:28:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:28:27
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:28:27
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:28:27
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:28:27
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:29:27
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:29:28
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:29:28
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:29:29
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:29:29
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:29:29
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:30:29
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:30:30
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:30:31
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:30:31
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:30:31
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:30:31
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:31:31
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:31:32
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:31:33
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:31:34
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:31:34
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:31:34
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:32:34
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:32:34
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:32:35
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:32:36
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:32:36
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:32:36
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:33:36
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:33:36
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:33:36
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:33:36
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:33:36
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:33:36
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:34:36
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:34:37
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:34:37
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:34:37
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:34:37
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:34:37
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:35:37
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:35:37
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:35:38
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:35:38
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:35:38
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:35:38
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:36:38
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:36:38
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:36:38
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:36:39
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:36:39
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:36:39
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:37:39
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:37:39
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:37:39
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:37:39
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:37:39
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:37:39
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:38:39
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:38:40
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:38:41
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:38:41
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:38:41
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:38:41
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:39:41
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:39:42
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:39:42
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:39:42
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:39:42
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:39:42
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:40:42
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:40:43
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:40:43
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:40:43
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:40:43
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:40:43
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:41:43
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:41:43
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:41:44
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:41:44
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:41:44
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:41:44
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:42:44
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:42:44
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:42:44
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:42:45
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:42:45
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:42:45
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:43:45
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:43:45
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:43:46
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:43:46
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:43:46
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:43:46
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:44:46
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:44:47
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:44:48
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:44:49
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:44:49
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:44:49
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:45:49
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:45:49
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:45:50
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:45:51
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:45:51
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:45:51
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:46:51
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:46:51
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:46:52
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:46:53
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:46:53
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:46:53
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:47:53
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:47:54
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:47:54
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:47:55
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:47:55
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:47:55
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:48:55
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:48:56
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:48:56
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:48:57
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:48:57
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:48:57
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:49:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:49:57
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:49:57
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:49:58
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:49:58
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:49:58
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:50:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:50:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:50:58
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:50:58
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:50:58
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:50:58
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:51:58
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:51:59
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:51:59
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:51:59
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:51:59
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:51:59
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:52:59
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:53:00
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:53:01
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:53:02
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:53:02
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:53:02
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:54:02
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:54:03
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:54:03
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:54:04
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:54:04
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:54:04
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:55:04
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:55:05
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:55:06
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:55:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:55:06
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:55:06
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:56:06
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:56:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:56:08
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:56:08
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:56:08
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:56:08
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:57:08
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:57:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:57:09
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:57:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:57:09
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:57:09
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:58:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:58:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:58:10
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:58:10
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:58:10
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:58:10
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 14:59:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 14:59:10
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 14:59:10
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 14:59:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 14:59:11
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 14:59:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:00:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:00:11
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:00:11
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:00:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:00:11
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:00:11
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:01:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:01:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:01:12
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:01:12
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:01:12
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:01:12
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:02:12
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:02:13
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:02:14
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:02:14
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:02:14
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:02:14
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:03:14
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:03:15
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:03:16
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:03:16
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:03:16
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:03:16
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:04:16
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:04:17
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:04:18
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:04:19
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:04:19
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:04:19
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:05:19
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:05:19
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:05:20
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:05:21
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:05:21
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:05:21
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:06:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:06:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:06:21
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:06:21
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:06:21
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:06:21
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:07:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:07:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:07:22
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:07:22
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:07:22
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:07:22
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:08:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:08:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:08:23
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:08:23
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:08:23
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:08:23
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:09:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:09:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:09:23
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:09:24
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:09:24
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:09:24
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:10:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:10:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:10:24
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:10:24
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:10:24
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:10:24
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:11:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:11:25
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:11:26
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:11:26
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:11:26
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:11:26
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:12:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:12:27
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:12:28
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:12:29
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:12:29
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:12:29
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:13:29
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:13:29
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:13:30
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:13:31
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:13:31
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:13:31
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:14:31
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:14:32
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:14:32
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:14:33
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:14:33
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:14:33
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:15:33
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:15:34
+Hata Table 'zfitness_fitness_db.device_del_card' doesn't exist
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:15:34
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:15:34
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:15:34
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:15:34
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:16:34
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:16:35
+KİŞİ İD : 0 CİHAZDAN SİLİNDİ
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:16:35
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:16:35
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:16:35
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:16:35
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 8556200 TARiH = 2025-07-26 15:16:53
+KART NO : 8556200, TARiH : 2025-07-26 15:16:53 HAREKETi TABLOYA YAZILDI
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 15:16:58
+KART NO : 2290948, TARiH : 2025-07-26 15:16:58 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:17:35
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:17:36
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:17:36
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 2 kayıt işlendi. İterasyon 1: 2 kayıt alındı.
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:17:36
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:17:36
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:17:36
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:18:36
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:18:36
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:18:37
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:18:37
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:18:37
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:18:37
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:19:37
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:19:37
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:19:37
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:19:38
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:19:38
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:19:38
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:20:38
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:20:38
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:20:38
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:20:38
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:20:38
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:20:38
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:21:38
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:21:39
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:21:39
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:21:39
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:21:39
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:21:39
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 15:22:27
+KART NO : 2290948, TARiH : 2025-07-26 15:22:27 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:22:39
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:22:39
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:22:40
+192.168.1.200 VERiLER ALINIRKEN HATA : Toplam 1 kayıt işlendi. İterasyon 1: 1 kayıt alındı.
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:22:40
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:22:40
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:22:40
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:23:40
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:23:41
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:23:41
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:23:42
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:23:42
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:23:42
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.70     2025-07-26 15:24:04
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:24:04
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:24:05
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:24:06
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:24:06
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:24:06
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:24:06
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 15:24:12
+KART NO : 2290948, TARiH : 2025-07-26 15:24:12 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:25:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:25:07
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:25:08
+192.168.1.200 iPLi CiHAZDAN VERiLER ALINDI, GELEN VERi ADEDi : 1 (Retry: 0)
+KART NO : 2290948, TARiH : 26.07.2025 15:24:12 HAREKETi TABLOYA YAZILDI
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:25:09
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:25:09
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:25:09
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:26:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:26:09
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:26:10
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:26:11
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:26:11
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:26:11
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.70     2025-07-26 15:27:19
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:27:19
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:27:20
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:27:20
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:27:21
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:27:21
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:27:21
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 15:27:24
+KART NO : 2290948, TARiH : 2025-07-26 15:27:24 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:28:21
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:28:22
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:28:22
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:28:23
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:28:23
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:28:23
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:29:23
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:29:24
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:29:25
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:29:25
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:29:25
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:29:25
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 2290948 TARiH = 2025-07-26 15:30:07
+UDP VERİ GELDİ - Gönderen IP: 192.168.1.200 - Veri Uzunluğu: 50
+ONLINE VERi MESAJI :  ONLINE VERi GELDi -> KARTNO = 8556200 TARiH = 2025-07-26 15:30:11
+KART NO : 2290948, TARiH : 2025-07-26 15:30:07 HAREKETi TABLOYA YAZILDI
+KART NO : 8556200, TARiH : 2025-07-26 15:30:11 HAREKETi TABLOYA YAZILDI
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:30:25
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:30:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:30:26
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:30:26
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:30:26
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:30:26
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:31:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:31:26
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:31:27
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:31:27
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:31:27
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:31:27
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:32:27
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:32:27
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:32:28
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:32:29
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:32:29
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:32:29
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+
+ZFitness Programı v4.70         2025-07-26 15:33:33
+UDP DİNLEME BAŞLATILDI - Port: 9781 - Local IP: 169.254.246.237
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:33:33
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:33:34
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:33:35
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:33:37
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:33:37
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:33:37
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:34:37
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:34:38
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:34:47
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:34:48
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:34:48
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:34:48
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:35:48
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:35:48
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:35:49
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:35:50
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:35:50
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:35:50
+
+ZFitness Programı v4.70         2025-07-26 15:36:33
+-------------------------------------------------------------------------------------
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:36:33
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:36:34
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:36:34
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:36:35
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:36:35
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:36:35
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:37:35
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:37:36
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:37:37
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:37:37
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:37:37
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:37:37
+KiŞi GÖNDERiMi BAŞLIYOR : 2025-07-26 15:38:37
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+KiŞi SiLME BAŞLIYOR : 2025-07-26 15:38:38
+VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK
+CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : 2025-07-26 15:38:39
+192.168.1.200 iPLi CiHAZDAN HiC VERi GELMEDi (Retry: 0)
+TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : 2025-07-26 15:38:40
+TXT DE BEKLEYEN VERiLER KONTROL EDiLDi : 2025-07-26 15:38:40
+iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : 2025-07-26 15:38:40

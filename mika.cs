@@ -805,11 +805,12 @@ namespace ZFitness
                 {
                     try
                     {
-                        // Bağlantı koptuktan sonra tüm kayıtları almak için döngüyü optimize ediyoruz
-                        int maxIterations = 50; // Maksimum 50 iterasyon
+                        // Cihazdan tüm kayıtları almak için döngü - cihaz veri yok diyene kadar devam et
                         int totalRecordsProcessed = 0;
+                        int consecutiveEmptyResponses = 0;
+                        const int maxEmptyResponses = 3; // 3 kez boş yanıt gelirse dur
                         
-                        for (int o = 0; o < maxIterations; o++)
+                        for (int o = 0; o < 1000; o++) // Maksimum 1000 iterasyon (güvenlik için)
                         {
                             byte son = 0x00;
                             if (o > 0)
@@ -835,6 +836,9 @@ namespace ZFitness
                                 int toplamlog = Convert.ToInt32(deger[6].ToString());
                                 if (toplamlog > 0)
                                 {
+                                    // Veri geldi, boş yanıt sayacını sıfırla
+                                    consecutiveEmptyResponses = 0;
+                                    
                                     int j = 0;
                                     // Tüm kayıtları işle, sadece ilk 6'sını değil
                                     for (int i = 1; i <= toplamlog; i++)
@@ -963,6 +967,9 @@ namespace ZFitness
                                                         mika_hareket_dt.Rows.Add(dw);
                                                         gelen++;
                                                         totalRecordsProcessed++;
+                                                        
+                                                        // Her kaydı konsola yazdır
+                                                        Console.WriteLine("        KART NO : " + kartnom.TrimEnd() + ", TARiH : " + zaman.TrimEnd() + " HAREKETi TABLOYA YAZILDI");
                                                     }
                                                 }
                                                 catch (Exception ex)
@@ -974,23 +981,33 @@ namespace ZFitness
                                         }
                                     } // for bıttı
                                     
-                                    // Toplam işlenen kayıt sayısını logla
+                                    // Toplam işlenen kayıt sayısını logla ve konsola yazdır
                                     if (totalRecordsProcessed > 0)
                                     {
-                                        mesaj += "Toplam " + totalRecordsProcessed + " kayıt işlendi. ";
+                                        Console.WriteLine("        Toplam " + totalRecordsProcessed + " kayıt işlendi");
                                     }
+                                    
+                                    // Debug: Her iterasyonda kaç kayıt geldiğini logla ve konsola yazdır
+                                    Console.WriteLine("        İterasyon " + (o + 1) + ": " + toplamlog + " kayıt alındı");
+                                    
+                                    // Başarılı durumda mesaj değişkenini boş bırak
+                                    mesaj = "";
                                 }
                                 else
                                 {
-                                    mesaj = "";
-                                    break;
-                                }
-
-                                string mjk = "";
-                                mika_log_sil(serversocket, ref mjk);
-                                if (mjk.TrimEnd() != "")
-                                {
-                                    mesaj += mjk.TrimEnd();
+                                    // Cihazdan boş yanıt geldi
+                                    consecutiveEmptyResponses++;
+                                    Console.WriteLine("        İterasyon " + (o + 1) + ": Boş yanıt (" + consecutiveEmptyResponses + "/" + maxEmptyResponses + ")");
+                                    
+                                    if (consecutiveEmptyResponses >= maxEmptyResponses)
+                                    {
+                                        // 3 kez boş yanıt geldi, tüm kayıtlar alındı
+                                        Console.WriteLine("        Tüm kayıtlar alındı, döngü sonlandırılıyor");
+                                        mesaj = "";
+                                        break;
+                                    }
+                                    // Bir sonraki iterasyona devam et
+                                    continue;
                                 }
                             }
                             else
@@ -998,6 +1015,14 @@ namespace ZFitness
                                 break;
                             }
                         } // for bıttı
+                        
+                        // Tüm kayıtlar alındıktan sonra log silme işlemi yap
+                        string mjk = "";
+                        mika_log_sil(serversocket, ref mjk);
+                        if (mjk.TrimEnd() != "")
+                        {
+                            mesaj += mjk.TrimEnd();
+                        }
                     }
                     catch (Exception ex)
                     {

@@ -13,26 +13,83 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Windows.Forms;
+using System.Configuration;
 
 namespace ZFitness
 {
     class Program
     {
+        // Renkli konsol yazdırma fonksiyonları
+        private static void WriteColor(string message, ConsoleColor color)
+        {
+            Console.ForegroundColor = color;
+            Console.WriteLine(message);
+            Console.ResetColor();
+        }
+
+        private static void WriteHeader(string title)
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("+==============================================================+");
+            Console.WriteLine($"|                    {title,-40} |");
+            Console.WriteLine("+==============================================================+");
+            Console.ResetColor();
+        }
+
+        private static void WriteSection(string section)
+        {
+            int totalWidth = 60; // Toplam satır uzunluğu
+            string text = $" {section} ";
+            int padding = (totalWidth - text.Length) / 2;
+            if (padding < 0) padding = 0;
+            string line = new string('=', padding) + text + new string('=', totalWidth - text.Length - padding);
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("\n" + line);
+            Console.ResetColor();
+        }
+
+        private static void WriteSuccess(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"[OK] {message}");
+            Console.ResetColor();
+        }
+
+        private static void WriteError(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"[ERROR] {message}");
+            Console.ResetColor();
+        }
+
+        private static void WriteInfo(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"[INFO] {message}");
+            Console.ResetColor();
+        }
+
+        private static void WriteWarning(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.WriteLine($"[WARNING] {message}");
+            Console.ResetColor();
+        }
+
         public static string dosyayolu = AppDomain.CurrentDomain.BaseDirectory;
         public static string path_log = dosyayolu + "\\log";
         public static string logsFileName = "loglar.txt";
         public static string path_yazilmayan = Path.Combine(path_log, logsFileName);
         public static string path = path_log + "\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
         public static string loglar = "";
-        public static string tab = "    ";
+        public static string tab = "        ";
         public static string bosluk = " ";
         public static string yenisatir = Environment.NewLine;
 
         public static string alttancizgi =
             "-------------------------------------------------------------------------------------";
 
-        public static string sqlbaglanti =
-            "Database=zfitness_fitness_db; Data Source=zfitnes.az; User ID=zfiness_fitness_user; password=r6.a1&WdhFl)a1%4+5S!";
+        public static string sqlbaglanti = "Database=zfitness_fitness_db; Data Source=zfitness.az; Port=3306; User ID=zfitness_fitnes_user; password=r6.a1&WdhFl)a1%4+5S!; Connection Timeout=30; Command Timeout=30;";
 
         //public static 
 
@@ -60,6 +117,13 @@ namespace ZFitness
 
         static void Main(string[] args)
         {
+            // Konsol encoding'ini UTF-8 yap
+            Console.OutputEncoding = Encoding.UTF8;
+            Console.InputEncoding = Encoding.UTF8;
+            
+            // Config dosyasını yeniden yükle
+            ConfigurationManager.RefreshSection("connectionStrings");
+            
             if (IsRunning())
             {
                 MessageBox.Show("Zaten Çalışıyor");
@@ -101,19 +165,27 @@ namespace ZFitness
 
         public static void islemyap()
         {
-            MessageBox.Show("ZFitness Salonu");
-            loglar = "ZFitness Programı v4.60 " + tab + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            Console.WriteLine(yenisatir + tab + loglar);
+            // Program başlığı
+            WriteHeader("ZFitness Programı v4.70");
+            WriteInfo($"Başlatma Zamanı: {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
+            
+            // UDP başlatma mesajı
+            WriteSuccess($"UDP Dinleme Başlatıldı - Port: {mikaudpport} - Local IP: {mikalocal_ip}");
+            
+            // Log dosyasına yazma
+            loglar = "ZFitness Programı v4.70 " + tab + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             File.AppendAllText(path, yenisatir + yenisatir + loglar);
-
+            
+            //loglar = "UDP DİNLEME BAŞLATILDI - Port: " + mikaudpport + " - Local IP: " + mikalocal_ip;
+           // File.AppendAllText(path, yenisatir + loglar);
+            
             loglar = alttancizgi;
-            Console.WriteLine(loglar);
             File.AppendAllText(path, yenisatir + loglar);
 
             while (true)
             {
+                WriteSection("KiŞi GÖNDERiMi BAŞLIYOR");
                 loglar = "KiŞi GÖNDERiMi BAŞLIYOR : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
 
                 mika mika = new mika();
@@ -182,9 +254,12 @@ namespace ZFitness
                                                         }
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - device_port değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -198,16 +273,19 @@ namespace ZFitness
                                                 {
                                                     if (dt.Rows[i]["device_door"] != null)
                                                     {
-                                                        if (dt.Rows[i]["device_door"].ToString().TrimEnd() != "")
+                                                        string deviceDoor = dt.Rows[i]["device_door"].ToString().TrimEnd();
+                                                        if (deviceDoor != "")
                                                         {
-                                                            kisi.door_id = dt.Rows[i]["device_door"].ToString()
-                                                                .TrimEnd();
+                                                            kisi.door_id = deviceDoor;
                                                         }
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - device_door değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -221,16 +299,19 @@ namespace ZFitness
                                                 {
                                                     if (dt.Rows[i]["clients_id"] != null)
                                                     {
-                                                        if (dt.Rows[i]["clients_id"].ToString().TrimEnd() != "")
+                                                        string clientId = dt.Rows[i]["clients_id"].ToString().TrimEnd();
+                                                        if (clientId != "")
                                                         {
-                                                            kisi.kisi_id = dt.Rows[i]["clients_id"].ToString()
-                                                                .TrimEnd();
+                                                            kisi.kisi_id = clientId;
                                                         }
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - clients_id değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -244,16 +325,23 @@ namespace ZFitness
                                                 {
                                                     if (dt.Rows[i]["clients_name"] != null)
                                                     {
-                                                        if (dt.Rows[i]["clients_name"].ToString().TrimEnd() != "")
+                                                        string clientName = dt.Rows[i]["clients_name"].ToString().TrimEnd();
+                                                        if (clientName != "")
                                                         {
-                                                            kisi.kisi_adi = dt.Rows[i]["clients_name"].ToString()
-                                                                .TrimEnd();
+                                                            kisi.kisi_adi = clientName;
+                                                        }
+                                                        else
+                                                        {
+                                                            kisi.kisi_adi = "Bilinmeyen";
                                                         }
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - clients_name değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -267,9 +355,10 @@ namespace ZFitness
                                                 {
                                                     if (dt.Rows[i]["device_group"] != null)
                                                     {
-                                                        if (dt.Rows[i]["device_group"].ToString().TrimEnd() != "")
+                                                        string deviceGroup = dt.Rows[i]["device_group"].ToString().TrimEnd();
+                                                        if (deviceGroup != "")
                                                         {
-                                                            kisi.grup = dt.Rows[i]["device_group"].ToString().TrimEnd();
+                                                            kisi.grup = deviceGroup;
                                                         }
                                                         else
                                                         {
@@ -281,9 +370,12 @@ namespace ZFitness
                                                         kisi.grup = "UYE";
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - device_group değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -319,16 +411,19 @@ namespace ZFitness
                                                 {
                                                     if (dt.Rows[i]["clients_limit"] != null)
                                                     {
-                                                        if (dt.Rows[i]["clients_limit"].ToString().TrimEnd() != "")
+                                                        string clientLimit = dt.Rows[i]["clients_limit"].ToString().TrimEnd();
+                                                        if (clientLimit != "")
                                                         {
-                                                            kisi.limit = dt.Rows[i]["clients_limit"].ToString()
-                                                                .TrimEnd();
+                                                            kisi.limit = clientLimit;
                                                         }
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - clients_limit değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -342,16 +437,19 @@ namespace ZFitness
                                                 {
                                                     if (dt.Rows[i]["expiration_date"] != null)
                                                     {
-                                                        if (dt.Rows[i]["expiration_date"].ToString().TrimEnd() != "")
+                                                        string expDate = dt.Rows[i]["expiration_date"].ToString().TrimEnd();
+                                                        if (expDate != "")
                                                         {
-                                                            kisi.sontarih = dt.Rows[i]["expiration_date"].ToString()
-                                                                .TrimEnd();
+                                                            kisi.sontarih = expDate;
                                                         }
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - expiration_date değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -365,18 +463,19 @@ namespace ZFitness
                                                 {
                                                     if (dt.Rows[i]["is_active"] != null)
                                                     {
-                                                        if (dt.Rows[i]["is_active"].ToString().TrimEnd() != "")
+                                                        string isActive = dt.Rows[i]["is_active"].ToString().TrimEnd();
+                                                        if (isActive != "")
                                                         {
-                                                            kisi.gondermi =
-                                                                (dt.Rows[i]["is_active"].ToString().TrimEnd() == "yes"
-                                                                    ? true
-                                                                    : false);
+                                                            kisi.gondermi = (isActive == "yes" ? true : false);
                                                         }
                                                     }
                                                 }
-                                                catch
+                                                catch (Exception ex)
                                                 {
                                                     kisi.devam_Etme = true;
+                                                    loglar = "KiŞi ID : " + kisi.kisi_id + " - is_active değeri bozuk: " + ex.Message;
+                                                    Console.WriteLine(tab + loglar);
+                                                    File.AppendAllText(path, yenisatir + loglar);
                                                 }
                                             }
 
@@ -490,20 +589,17 @@ namespace ZFitness
                 }
                 catch (Exception ex)
                 {
-                    loglar = "Hata " + ex.Message;
+                    loglar = "Veritabanı bağlantı hatası: " + ex.Message + " - Program cihazlardan veri almaya devam edecek";
                     Console.WriteLine(tab + loglar);
                     File.AppendAllText(path, yenisatir + loglar);
+                    // Bağlantı hatası olsa bile program çalışmaya devam etsin
                 }
 
                 #endregion
 
 
-                loglar = alttancizgi;
-                Console.WriteLine(loglar);
-                File.AppendAllText(path, yenisatir + loglar);
-
+                WriteSection("KiŞi SiLME BAŞLIYOR");
                 loglar = "KiŞi SiLME BAŞLIYOR : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
 
 
@@ -728,19 +824,15 @@ namespace ZFitness
                 catch (Exception ex)
                 {
                     loglar = "Hata " + ex.Message;
-                    Console.WriteLine(tab + loglar);
+                    WriteError(loglar);
                     File.AppendAllText(path, yenisatir + loglar);
                 }
 
                 #endregion
 
 
-                loglar = alttancizgi;
-                Console.WriteLine(loglar);
-                File.AppendAllText(path, yenisatir + loglar);
-
+                WriteSection("CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR");
                 loglar = "CiHAZDAN VERi ALMA iŞLEMi BAŞLIYOR : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
 
 
@@ -761,7 +853,7 @@ namespace ZFitness
                     baglanti.Open();
 
                     DataTable dt_ipler = new DataTable();
-                    string sor1 = "select DISTINCT(device_ip) from device_add_card";
+                    string sor1 = "select DISTINCT(device_ip) from device";
                     using (MySqlDataAdapter cmd = new MySqlDataAdapter(sor1, baglanti))
                     {
                         cmd.Fill(dt_ipler);
@@ -808,7 +900,7 @@ namespace ZFitness
                                 if (msj.TrimEnd() != "")
                                 {
                                     loglar = cihazip + " VERiLER ALINIRKEN HATA : " + msj.TrimEnd();
-                                    Console.WriteLine(tab + loglar);
+                                    WriteError(loglar);
                                     File.AppendAllText(path, yenisatir + loglar);
                                 }
                                 else
@@ -817,13 +909,13 @@ namespace ZFitness
                                     {
                                         loglar = cihazip + " iPLi CiHAZDAN VERiLER ALINDI, GELEN VERi ADEDi : " +
                                                  gelenveri + " (Retry: " + retryCount + ")";
-                                        Console.WriteLine(tab + loglar);
+                                        WriteSuccess(loglar);
                                         File.AppendAllText(path, yenisatir + loglar);
                                     }
                                     else
                                     {
                                         loglar = cihazip + " iPLi CiHAZDAN HiC VERi GELMEDi (Retry: " + retryCount + ")";
-                                        Console.WriteLine(tab + loglar);
+                                        WriteWarning(loglar);
                                         File.AppendAllText(path, yenisatir + loglar);
                                     }
 
@@ -945,11 +1037,8 @@ namespace ZFitness
                 #endregion
 
 
-                loglar = alttancizgi;
-                Console.WriteLine(loglar);
-                File.AppendAllText(path, yenisatir + loglar);
+                WriteSection("TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR");
                 loglar = "TXT DE BEKLEYEN VERiLER KONTROL EDiLiYOR : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
 
 
@@ -1073,11 +1162,8 @@ namespace ZFitness
                 File.AppendAllText(path, yenisatir + loglar);
 
 
-                loglar = alttancizgi;
-                Console.WriteLine(loglar);
-                File.AppendAllText(path, yenisatir + loglar);
+                WriteWarning("iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK");
                 loglar = "iŞLEMLER 1 DK SONRA TEKRAR BAŞLAYACAK : " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                Console.WriteLine(tab + loglar);
                 File.AppendAllText(path, yenisatir + loglar);
 
 
@@ -1102,6 +1188,12 @@ namespace ZFitness
             {
                 mikaudp.Client.Bind(new IPEndPoint(IPAddress.Any, mikaudpport));
                 mikaudp.BeginReceive(new AsyncCallback(mikaverigeldi), mikaudp);
+                
+                // UDP başlatma mesajı
+              //  loglar = "UDP DİNLEME BAŞLATILDI - Port: " + mikaudpport + " - Local IP: " + mikalocal_ip;
+              //  Console.WriteLine(tab + loglar);
+              //   File.AppendAllText(path, yenisatir + loglar);
+                
                 return true;
             }
             catch (Exception ex)
@@ -1141,6 +1233,7 @@ namespace ZFitness
             {
                 IPEndPoint RemoteIpEndPoint = new IPEndPoint(IPAddress.Any, mikaudpport);
                 byte[] received = mikaudp.EndReceive(res, ref RemoteIpEndPoint);
+                
                 string stringData = Encoding.ASCII.GetString(received, 0, received.Length);
                 string termina_ip = "";
                 termina_ip = RemoteIpEndPoint.Address.ToString();
@@ -1148,6 +1241,11 @@ namespace ZFitness
                 string hex = BitConverter.ToString(received);
                 if (bironceki_mika_udpveri.TrimEnd() != hex)
                 {
+                    // UDP veri geldi debug mesajı - sadece yeni veri geldiğinde
+                    loglar = "UDP VERİ GELDİ - Gönderen IP: " + RemoteIpEndPoint.Address.ToString() + " - Veri Uzunluğu: " + received.Length;
+                    Console.WriteLine(tab + loglar);
+                    File.AppendAllText(path, yenisatir + loglar);
+                    
                     bironceki_mika_udpveri = hex;
                     string[] tarihal = hex.Split('-');
                     if (tarihal[0].ToString() == "55" && tarihal[1].ToString() == "55" &&
@@ -1262,6 +1360,27 @@ namespace ZFitness
                                 Thread myNewThread = new Thread(() => hareket_yaz(kisi_id, kartno, dt.TrimEnd(),
                                     reader_index.ToString(), EventType.ToString().TrimEnd(), termina_ip.TrimEnd()));
                                 myNewThread.Start();
+                                
+                                // UDP verisi işlendikten sonra cihazdan log silme işlemi
+                                try
+                                {
+                                    // Cihaza TCP bağlantısı kur ve log sil
+                                    IPEndPoint ipend = new IPEndPoint(IPAddress.Parse(termina_ip.TrimEnd()), 9780);
+                                    Socket serversocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                                    serversocket.Connect(ipend);
+                                    
+                                    string mjk = "";
+                                    mika mikaInstance = new mika();
+                                    mikaInstance.mika_log_sil(serversocket, ref mjk);
+                                    
+                                    serversocket.Shutdown(SocketShutdown.Both);
+                                    serversocket.Close();
+                                }
+                                catch (Exception ex)
+                                {
+                                    // Log silme hatası olsa bile devam et
+                                    Console.WriteLine("        UDP Log silme hatası: " + ex.Message);
+                                }
                             }
                             catch
                             {
@@ -1278,7 +1397,7 @@ namespace ZFitness
             if (mjh.TrimEnd() != "")
             {
                 loglar = "ONLINE VERi MESAJI : " + mjh.TrimEnd();
-                Console.WriteLine(tab + loglar);
+                WriteInfo(loglar);
                 File.AppendAllText(path, yenisatir + loglar);
             }
 
@@ -1305,7 +1424,7 @@ namespace ZFitness
                     {
                         loglar = "KART NO : " + kartno.TrimEnd() + ", TARiH : " + tarih.TrimEnd() +
                                  " HAREKETi TABLOYA YAZILDI";
-                        Console.WriteLine(tab + loglar);
+                        Console.WriteLine("        " + loglar);
                         File.AppendAllText(path, yenisatir + loglar);
                     }
                     else
