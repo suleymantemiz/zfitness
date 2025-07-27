@@ -31,7 +31,7 @@ namespace ZFitness
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("+==============================================================+");
-            Console.WriteLine($"|                    {title,-40} |");
+            Console.WriteLine($"|                    {title,-40}  |");
             Console.WriteLine("+==============================================================+");
             Console.ResetColor();
         }
@@ -165,6 +165,9 @@ namespace ZFitness
 
         public static void islemyap()
         {
+            // ZFitness Salonu mesajı
+            MessageBox.Show("ZFitness Salonuna Hoş Geldiniz!");
+            
             // Program başlığı
             WriteHeader("ZFitness Programı v4.70");
             WriteInfo($"Başlatma Zamanı: {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
@@ -582,7 +585,7 @@ namespace ZFitness
                     }
                     else
                     {
-                        loglar = "VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK";
+                        loglar = "VERİTABANINDA GÖNDERİLECEK KİŞİ VERİSİ BULUNAMADI";
                         Console.WriteLine(tab + loglar);
                         File.AppendAllText(path, yenisatir + loglar);
                     }
@@ -656,11 +659,11 @@ namespace ZFitness
                                             {
                                                 try
                                                 {
-                                                    if (dt.Rows[i]["client_id"] != null)
+                                                    if (dt.Rows[i]["card_id"] != null)
                                                     {
-                                                        if (dt.Rows[i]["client_id"].ToString().TrimEnd() != "")
+                                                        if (dt.Rows[i]["card_id"].ToString().TrimEnd() != "")
                                                         {
-                                                            kisi.kisi_id = dt.Rows[i]["client_id"].ToString().TrimEnd();
+                                                            kisi.kisi_id = dt.Rows[i]["card_id"].ToString().TrimEnd();
                                                         }
                                                     }
                                                 }
@@ -698,23 +701,8 @@ namespace ZFitness
 
                                             if (!kisi.devam_Etme)
                                             {
-                                                try
-                                                {
-                                                    if (dt.Rows[i]["is_update"] != null)
-                                                    {
-                                                        if (dt.Rows[i]["is_update"].ToString().TrimEnd() != "")
-                                                        {
-                                                            kisi.silmi =
-                                                                (dt.Rows[i]["is_update"].ToString().TrimEnd() == "no"
-                                                                    ? true
-                                                                    : false);
-                                                        }
-                                                    }
-                                                }
-                                                catch
-                                                {
-                                                    kisi.devam_Etme = true;
-                                                }
+                                                // device_del_card tablosundaki kayıtlar zaten silinecek kayıtlar
+                                                kisi.silmi = true;
                                             }
 
                                             #endregion
@@ -816,7 +804,7 @@ namespace ZFitness
                     }
                     else
                     {
-                        loglar = "VERiTABANINDA CiHAZ VERiSi DOLU VERi YOK";
+                        loglar = "VERİTABANINDA SİLİNECEK KİŞİ VERİSİ BULUNAMADI";
                         Console.WriteLine(tab + loglar);
                         File.AppendAllText(path, yenisatir + loglar);
                     }
@@ -891,7 +879,7 @@ namespace ZFitness
                                     {
                                         // 2 saniye bekle ve tekrar dene
                                         Thread.Sleep(2000);
-                                        loglar = cihazip + " Bağlantı yeniden deneniyor... Deneme " + retryCount + "/" + maxRetries;
+                                        loglar = cihazip + " BAĞLANTI YENİDEN DENENİYOR... DENEME " + retryCount + "/" + maxRetries;
                                         Console.WriteLine(tab + loglar);
                                         File.AppendAllText(path, yenisatir + loglar);
                                     }
@@ -1379,7 +1367,7 @@ namespace ZFitness
                                 catch (Exception ex)
                                 {
                                     // Log silme hatası olsa bile devam et
-                                    Console.WriteLine("        UDP Log silme hatası: " + ex.Message);
+                                    Console.WriteLine("[ERROR] UDP LOG SİLME HATASI: " + ex.Message);
                                 }
                             }
                             catch
@@ -1567,9 +1555,9 @@ namespace ZFitness
             catch (Exception ex)
             {
                 // Log the full exception including the stack trace
-                Console.WriteLine($"Error writing logs to {path_yazilmayan}: {ex.ToString()}");
-                Console.WriteLine($"Log directory: {path_log}");
-                Console.WriteLine($"Log file: {logsFileName}");
+                Console.WriteLine($"LOG DOSYASINA YAZMA HATASI {path_yazilmayan}: {ex.ToString()}");
+                Console.WriteLine($"LOG KLASÖRÜ: {path_log}");
+                Console.WriteLine($"LOG DOSYASI: {logsFileName}");
 
                 // Optionally, you can re-throw the exception to propagate it further
                 // throw;

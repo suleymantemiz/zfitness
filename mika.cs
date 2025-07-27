@@ -361,11 +361,19 @@ namespace ZFitness
                                             csuregun = tarih.Day.ToString();
                                             csureay = tarih.Month.ToString();
                                             csureyil = Convert.ToString(tarih.Year - 2000);
+                                            
+                                                                                // Son kullanma tarihini konsola yazdır
+                                    // Console.WriteLine("        KART NO : " + kisiler[kis].kart_no.TrimEnd() + " için SON TARİH : " + tarih.ToString("yyyy-MM-dd") + " gönderiliyor");
                                         }
                                     }
                                     catch (Exception)
                                     {
                                     }
+                                }
+                                else
+                                {
+                                    // Son tarih yoksa konsola yazdır
+                                    // Console.WriteLine("        KART NO : " + kisiler[kis].kart_no.TrimEnd() + " için SON TARİH YOK");
                                 }
 
                                 byte[] data1 = new byte[]
@@ -398,16 +406,25 @@ namespace ZFitness
                                     tarihal[4].ToString() == "AF" &&
                                     (Convert.ToInt64(tarihal[5], 16)).ToString() == "9")
                                 {
-                                    mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + ", KARTNO : " +
-                                            kisiler[kis].kart_no + " , GRUP : '" + grubum + "' CİHAZA GONDERILDI");
+                                    // mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + ", KARTNO : " +
+                                    //           kisiler[kis].kart_no + " , GRUP : '" + grubum + "' CİHAZA GONDERILDI");
+                                    
+                                    // Kart bilgilerini konsola yazdır
+                                    Console.WriteLine("[INFO] KART GÖNDERİLDİ:");
+                                    Console.WriteLine("[INFO] KİŞİ ADI: " + kisiler[kis].kisi_adi.TrimEnd());
+                                    Console.WriteLine("[INFO] KART NO: " + kisiler[kis].kart_no.TrimEnd());
+                                    Console.WriteLine("[INFO] LİMİT: " + kisiler[kis].limit.TrimEnd());
+                                    Console.WriteLine("[INFO] SON TARİH: " + kisiler[kis].sontarih.TrimEnd());
+                                    Console.WriteLine("[INFO] GRUP: " + grubum);
+                                    Console.WriteLine("[INFO] ----------------------------------------");
                                     string msj = "";
                                     kredi_gonder(server, ip.TrimEnd(), port.TrimEnd(), kisiler[kis].limit.TrimEnd(),
                                         kisiler[kis].kart_no.TrimEnd(), ref msj);
                                     if (msj.TrimEnd() != "")
                                     {
                                         mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + ", KARTNO : " +
-                                                kisiler[kis].kart_no + " , GRUP : '" + grubum +
-                                                "' KREDI GONDERILIRKEN HATA  : " + msj);
+                                                  kisiler[kis].kart_no + " , GRUP : '" + grubum +
+                                                  "' KREDI GONDERILIRKEN HATA  : " + msj);
                                     }
                                     else
                                     {
@@ -416,7 +433,7 @@ namespace ZFitness
                                             if (baglanti.State == ConnectionState.Open)
                                             {
                                                 string updd = "update clients set is_update = 'yes' where card_id = '" +
-                                                            kisiler[kis].kart_no.TrimEnd() + "'";
+                                                              kisiler[kis].kart_no.TrimEnd() + "'";
                                                 using (MySqlCommand cmd = new MySqlCommand(updd, baglanti))
                                                 {
                                                     cmd.ExecuteNonQuery();
@@ -427,12 +444,12 @@ namespace ZFitness
                                 }
                                 else // panelden olumsuz cevap yada baska bı cevap geldı
                                 {
-                                    mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + " KİŞİ CİHAZDAN SİLİNEMEDİ : PANELDEN DÜZGÜN CEVAP ALINAMADI");
+                                    mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + " KİŞİ CİHAZA GÖNDERİLEMEDİ : PANELDEN DÜZGÜN CEVAP ALINAMADI");
                                 }
                             }
                             else // kısının kart nosu yada ıd sı yok
                             {
-                                mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id +" KİŞİ CİHAZDAN SİLİNEMEDİ : KART NO YADA İD BOŞTUR");
+                                mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id +" KİŞİ CİHAZA GÖNDERİLEMEDİ : KART NO YADA İD BOŞTUR");
                             }
 
                             #endregion
@@ -451,9 +468,13 @@ namespace ZFitness
                                 string ccredit = "";
                                 string csurevarmi = "0";
                                 string csuregun = "";
+								string csureay = "";					
+                                string csureyil = "";
                                 string cpass = "";
                                 cvalid = "0";
                                 csuregun = "00";
+                                csureay = "00";
+                                csureyil = "00";
                                 csurevarmi = "2";
                                 ccredit = "0";
                                 cid = kisi_id;
@@ -653,6 +674,9 @@ namespace ZFitness
             try
             {
                 string credit_value = kredi.TrimEnd();
+                
+                // Limit bilgisini konsola yazdır
+                // Console.WriteLine("        KART NO : " + kartno.TrimEnd() + " için LIMIT : " + credit_value.TrimEnd() + " gönderiliyor");
                 byte[] ckart = new byte[5];
                 Int64 deger = Convert.ToInt64(kartno.TrimEnd());
                 string hexim = deger.ToString("X");
@@ -723,6 +747,7 @@ namespace ZFitness
                     (Convert.ToInt64(tarihal[5], 16)).ToString() == "7")
                 {
                     mesaj = "";
+                    // Console.WriteLine("        KART NO : " + kartno.TrimEnd() + " için LIMIT : " + credit_value.TrimEnd() + " başarıyla gönderildi");
                 }
                 else
                 {
@@ -842,6 +867,7 @@ namespace ZFitness
                                         string reader_index = "0";
                                         string kartnom = "";
                                         string kisi_id = "";
+                                        string grup = "";
                                         string sonuc = "10";
                                         String zaman = "";
                                         //gecerlımı
@@ -960,13 +986,13 @@ namespace ZFitness
                                                         totalRecordsProcessed++;
                                                         
                                                         // Her kaydı konsola yazdır
-                                                        Console.WriteLine("        KART NO : " + kartnom.TrimEnd() + ", TARiH : " + zaman.TrimEnd() + " HAREKETi TABLOYA YAZILDI");
+                                                        Console.WriteLine("[INFO] KART NO: " + kartnom.TrimEnd() + ", TARİH: " + zaman.TrimEnd() + " HAREKETİ TABLOYA YAZILDI");
                                                     }
                                                 }
                                                 catch (Exception ex)
                                                 {
                                                     // Hata durumunda log ekleyelim
-                                                    mesaj += "Kayıt işlenirken hata: " + ex.Message + " ";
+                                                    mesaj += "KAYIT İŞLENİRKEN HATA: " + ex.Message + " ";
                                                 }
                                             }
                                         }
@@ -975,11 +1001,11 @@ namespace ZFitness
                                     // Toplam işlenen kayıt sayısını logla ve konsola yazdır
                                     if (totalRecordsProcessed > 0)
                                     {
-                                        Console.WriteLine("        Toplam " + totalRecordsProcessed + " kayıt işlendi");
+                                        Console.WriteLine("[INFO] TOPLAM " + totalRecordsProcessed + " KAYIT İŞLENDİ");
                                     }
                                     
                                     // Debug: Her iterasyonda kaç kayıt geldiğini logla ve konsola yazdır
-                                    Console.WriteLine("        İterasyon " + (o + 1) + ": " + toplamlog + " kayıt alındı");
+                                    Console.WriteLine("[INFO] İTERASYON " + (o + 1) + ": " + toplamlog + " KAYIT ALINDI");
                                     
                                     // Başarılı durumda mesaj değişkenini boş bırak
                                     mesaj = "";
@@ -988,15 +1014,15 @@ namespace ZFitness
                                 {
                                     // Cihazdan boş yanıt geldi
                                     consecutiveEmptyResponses++;
-                                    Console.WriteLine("        İterasyon " + (o + 1) + ": Boş yanıt (" + consecutiveEmptyResponses + "/" + maxEmptyResponses + ")");
+                                    Console.WriteLine("[WARNING] İTERASYON " + (o + 1) + ": BOŞ YANIT (" + consecutiveEmptyResponses + "/" + maxEmptyResponses + ")");
                                     
                                     if (consecutiveEmptyResponses >= maxEmptyResponses)
                                     {
                                         // 3 kez boş yanıt geldi, tüm kayıtlar alındı
-                                        Console.WriteLine("        Tüm kayıtlar alındı, döngü sonlandırılıyor");
-                                        mesaj = "";
-                                        break;
-                                    }
+                                        Console.WriteLine("[INFO] TÜM KAYITLAR ALINDI, DÖNGÜ SONLANDIRILIYOR");
+                                    mesaj = "";
+                                    break;
+                                }
                                     // Bir sonraki iterasyona devam et
                                     continue;
                                 }
