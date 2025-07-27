@@ -363,7 +363,7 @@ namespace ZFitness
                                             csureyil = Convert.ToString(tarih.Year - 2000);
                                         }
                                     }
-                                    catch (Exception ex)
+                                    catch (Exception)
                                     {
                                     }
                                 }
@@ -399,15 +399,15 @@ namespace ZFitness
                                     (Convert.ToInt64(tarihal[5], 16)).ToString() == "9")
                                 {
                                     mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + ", KARTNO : " +
-                                              kisiler[kis].kart_no + " , GRUP : '" + grubum + "' CİHAZA GONDERILDI");
+                                            kisiler[kis].kart_no + " , GRUP : '" + grubum + "' CİHAZA GONDERILDI");
                                     string msj = "";
                                     kredi_gonder(server, ip.TrimEnd(), port.TrimEnd(), kisiler[kis].limit.TrimEnd(),
                                         kisiler[kis].kart_no.TrimEnd(), ref msj);
                                     if (msj.TrimEnd() != "")
                                     {
                                         mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + ", KARTNO : " +
-                                                  kisiler[kis].kart_no + " , GRUP : '" + grubum +
-                                                  "' KREDI GONDERILIRKEN HATA  : " + msj);
+                                                kisiler[kis].kart_no + " , GRUP : '" + grubum +
+                                                "' KREDI GONDERILIRKEN HATA  : " + msj);
                                     }
                                     else
                                     {
@@ -416,7 +416,7 @@ namespace ZFitness
                                             if (baglanti.State == ConnectionState.Open)
                                             {
                                                 string updd = "update clients set is_update = 'yes' where card_id = '" +
-                                                              kisiler[kis].kart_no.TrimEnd() + "'";
+                                                            kisiler[kis].kart_no.TrimEnd() + "'";
                                                 using (MySqlCommand cmd = new MySqlCommand(updd, baglanti))
                                                 {
                                                     cmd.ExecuteNonQuery();
@@ -427,14 +427,12 @@ namespace ZFitness
                                 }
                                 else // panelden olumsuz cevap yada baska bı cevap geldı
                                 {
-                                    mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id +
-                                              " KİŞİ CİHAZDAN SİLİNEMEDİ : PANELDEN DÜZGÜN CEVAP ALINAMADI");
+                                    mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id + " KİŞİ CİHAZDAN SİLİNEMEDİ : PANELDEN DÜZGÜN CEVAP ALINAMADI");
                                 }
                             }
                             else // kısının kart nosu yada ıd sı yok
                             {
-                                mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id +
-                                          " KİŞİ CİHAZDAN SİLİNEMEDİ : KART NO YADA İD BOŞTUR");
+                                mesaj.Add("KİŞİ İD : " + kisiler[kis].kisi_id +" KİŞİ CİHAZDAN SİLİNEMEDİ : KART NO YADA İD BOŞTUR");
                             }
 
                             #endregion
@@ -453,13 +451,9 @@ namespace ZFitness
                                 string ccredit = "";
                                 string csurevarmi = "0";
                                 string csuregun = "";
-                                string csureay = "";
-                                string csureyil = "";
                                 string cpass = "";
                                 cvalid = "0";
                                 csuregun = "00";
-                                csureay = "00";
-                                csureyil = "00";
                                 csurevarmi = "2";
                                 ccredit = "0";
                                 cid = kisi_id;
@@ -848,7 +842,6 @@ namespace ZFitness
                                         string reader_index = "0";
                                         string kartnom = "";
                                         string kisi_id = "";
-                                        string grup = "";
                                         string sonuc = "10";
                                         String zaman = "";
                                         //gecerlımı
@@ -857,9 +850,7 @@ namespace ZFitness
                                         reader_index = (Convert.ToInt64(deger[j + 5], 16)).ToString();
                                         //kart no
 
-                                        kartnom = deger[j + 6].ToString() + "" + deger[j + 7].ToString() + "" +
-                                                  deger[j + 8].ToString() + "" + deger[j + 9].ToString() + "" +
-                                                  deger[j + 10].ToString();
+                                        kartnom = deger[j + 6].ToString() + "" + deger[j + 7].ToString() + "" + deger[j + 8].ToString() + "" + deger[j + 9].ToString() + "" + deger[j + 10].ToString();
                                         //id
                                         kisi_id = BitConverter
                                             .ToUInt16(new byte[2] {(byte) data[j + 11], (byte) data[j + 12]}, 0)
